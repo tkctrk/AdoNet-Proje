@@ -1,0 +1,7 @@
+C:\Users\tarik\source\repos\ADONET PROJE\ADONET PROJE\bin\Debug\ADONET PROJE.exe.config
+C:\Users\tarik\source\repos\ADONET PROJE\ADONET PROJE\bin\Debug\ADONET PROJE.exe
+C:\Users\tarik\source\repos\ADONET PROJE\ADONET PROJE\bin\Debug\ADONET PROJE.pdb
+C:\Users\tarik\source\repos\ADONET PROJE\ADONET PROJE\obj\Debug\ADONET PROJE.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\ADONET PROJE\ADONET PROJE\obj\Debug\ADONET PROJE.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\ADONET PROJE\ADONET PROJE\obj\Debug\ADONET PROJE.exe
+C:\Users\tarik\source\repos\ADONET PROJE\ADONET PROJE\obj\Debug\ADONET PROJE.pdb
